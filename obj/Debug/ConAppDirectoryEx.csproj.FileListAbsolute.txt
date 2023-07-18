@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\bin\Debug\ConAppDirectoryEx.exe.config
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\bin\Debug\ConAppDirectoryEx.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\bin\Debug\ConAppDirectoryEx.pdb
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppDirectoryEx\ConAppDirectoryEx\obj\Debug\ConAppDirectoryEx.pdb
